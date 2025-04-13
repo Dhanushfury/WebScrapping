@@ -7,8 +7,8 @@ import mysql.connector
 DB_HOST = "127.0.0.1"
 DB_PORT = 3306
 DB_USER = "root"
-DB_PASSWORD = "YourNewPassword"
-DB_NAME = "Scrapping"
+DB_PASSWORD = "Nive#1029@"
+DB_NAME = "scrapping"
 TABLE_NAME = "Imdbmovies"
 
 def load_data_from_sql():
